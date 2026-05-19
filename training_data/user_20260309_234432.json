@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-03-09 23:43:59",
+  "duration": 33.05619668960571,
+  "training_mode": "reaction",
+  "total_score": 0,
+  "hits": 0,
+  "misses": 26,
+  "accuracy": 0.0,
+  "max_combo": 0,
+  "memory_rounds_completed": 0,
+  "memory_accuracy": 0,
+  "judgment_total": 0,
+  "judgment_correct": 0,
+  "performance_history": []
+}

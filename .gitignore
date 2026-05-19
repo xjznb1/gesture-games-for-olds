@@ -1,0 +1,11 @@
+# Python 虚拟环境
+venv/
+
+# 打包生成的文件
+build/
+dist/
+*.egg-info/
+
+# 其他临时文件
+__pycache__/
+*.pyc
